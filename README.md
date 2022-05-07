@@ -30,6 +30,6 @@ A aplicação permite o envio de detalhes através de uma caixa de texto e de um
 
 A aplicação mobile trata-se da mesma aplicação desenvolvida para web utilizando o React Native para seu desenvolvimento.
 
-### Tecnologias e Bibliotecas
+#### Tecnologias e Bibliotecas
 
 Em desenvolvimento....
