@@ -39,10 +39,10 @@ Desenvolvimento da aplicação responsável por receber as informações do usu�
 #### Tecnologias e Bibliotecas
 
 - [NodeJS](https://nodejs.org/en/) - Utilizado para criar o servidor utilizado na aplicação;
+- TypeScript - Linguagem utilizada para criação da aplicação;
 
 ##### Dependências
 
-- TypeScript - Linguagem utilizada para criação da aplicação;
 - TS-Node - Utilizado para executar o TypeScript no NodeJS;
 - Express - Framework utilizado para criar as rotas de comunicações entre o frontend e o backend;
 - Prisma ORM - Utilizado para criar o banco de dados no sistema;
