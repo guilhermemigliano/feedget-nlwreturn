@@ -3,7 +3,6 @@ import { useState } from 'react'
 import { Camera, Trash } from 'phosphor-react'
 import html2canvas from 'html2canvas'
 import { Loading } from '../Loading'
-import { backgroundPosition } from 'html2canvas/dist/types/css/property-descriptors/background-position'
 
 interface ScreenshotButtonProps {
   screenshot: string | null
