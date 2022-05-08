@@ -26,7 +26,14 @@ A aplicação permite o envio de detalhes através de uma caixa de texto e de um
 
 #### Aplicação web
 
-![App Screenshot](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
+![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
+![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true)
+
+#### Aplicação mobile
+
+![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true)
+![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true)
+![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true)
 
 ### Mobile
 
