@@ -22,9 +22,11 @@ A aplicação permite o envio de detalhes através de uma caixa de texto e de um
 - [html2canvas](https://html2canvas.hertzen.com) - Biblioteca JavaScript utilizada para tirar screenshots da página web;
 - [HeadlessUI](https://headlessui.dev) - Componentes prontos focados na acessibilidade do usuário.
 
-### Screenshots (aplicação web)
+### Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+#### Aplicação web
+
+![App Screenshot](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
 
 ### Mobile
 
