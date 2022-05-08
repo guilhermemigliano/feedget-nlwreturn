@@ -34,7 +34,8 @@ A aplicação permite o envio de detalhes através de uma caixa de texto e de um
 - [TailwindCSS](https://tailwindcss.com) - Framework utilizado na estilização (css) do sistema;
 - [PhosphorIcons](https://phosphoricons.com) - Biblioteca de ícones utilizados na aplicação;
 - [html2canvas](https://html2canvas.hertzen.com) - Biblioteca JavaScript utilizada para tirar screenshots da página web;
-- [HeadlessUI](https://headlessui.dev) - Componentes prontos focados na acessibilidade do usuário.
+- [HeadlessUI](https://headlessui.dev) - Componentes prontos focados na acessibilidade do usuário;
+- [Axios](https://axios-http.com/ptbr/docs/intro) - Cliente HTTP para node.js e pra o navegador.
 
 ### Mobile
 
