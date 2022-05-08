@@ -8,6 +8,25 @@ Durante o evento foi desenvolvido um sistema de coleta de feedbacks para web e m
 
 ## Aplicação
 
+### Screenshots
+
+#### Aplicação web
+
+![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
+![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true)
+
+#### Aplicação mobile
+
+![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true)
+![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true)
+![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true)
+
+| Mobile 1                                                                                                        | Mobile 2 | Mobile 3 |
+| --------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| ![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true) |
+| ![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true) |
+| ![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true) |
+
 ### Web
 
 A aplicação web trata-se de um sistema em que o usuário pode inserir um feedback relacionado a um problema, uma ideia ou outro.
@@ -22,19 +41,6 @@ A aplicação permite o envio de detalhes através de uma caixa de texto e de um
 - [html2canvas](https://html2canvas.hertzen.com) - Biblioteca JavaScript utilizada para tirar screenshots da página web;
 - [HeadlessUI](https://headlessui.dev) - Componentes prontos focados na acessibilidade do usuário.
 
-### Screenshots
-
-#### Aplicação web
-
-![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
-![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true)
-
-#### Aplicação mobile
-
-![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true)
-![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true)
-![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true)
-
 ### Mobile
 
 A aplicação mobile trata-se da mesma aplicação desenvolvida para web utilizando o React Native para seu desenvolvimento.
@@ -42,7 +48,7 @@ A aplicação mobile trata-se da mesma aplicação desenvolvida para web utiliza
 #### Tecnologias e Bibliotecas
 
 - [ReactNative](https://reactnative.dev) - Tecnologia utilizada para desenvolvimento do aplicativo;
-- [Expo](https://reactnative.dev) -
+- [Expo](https://reactnative.dev) - Ferramenta para desenvolvimento mobile com React Native. Facilita no desenvolvimento por possuir diversas bibliotecas prontas de forma nativa para uso.
 
 ### Server (backend)
 
