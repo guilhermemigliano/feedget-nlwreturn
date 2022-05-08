@@ -12,14 +12,14 @@ Durante o evento foi desenvolvido um sistema de coleta de feedbacks para web e m
 
 #### Aplicação web
 
+|                                                   Web 1                                                   |                                                   Web 2                                                   |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true) | ![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true) |
+
 ![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true)
 ![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true)
 
 #### Aplicação mobile
-
-![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true)
-![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true)
-![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true)
 
 |                                                    Mobile 1                                                     |                                                    Mobile 2                                                     |                                                    Mobile 3                                                     |
 | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
