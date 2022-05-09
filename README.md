@@ -8,6 +8,22 @@ Durante o evento foi desenvolvido um sistema de coleta de feedbacks para web e m
 
 ## Aplicação
 
+Aplicação disponível em:
+
+[Aplicação WEB](https://feedget-nlwreturn-q7l0681pp-guilhermemigliano.vercel.app/)
+
+### Deploy
+
+#### Frontend
+
+Deploy realizado utilizando a Vercel
+
+-[Vercel](https://vercel.com/)
+
+#### Backend
+
+Deploy realizado utilizando o Railway -[Railway](https://railway.app/)
+
 ### Screenshots
 
 #### Aplicação web
